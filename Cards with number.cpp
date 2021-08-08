@@ -1,3 +1,10 @@
+/*
+problem link: https://codeforces.com/problemset/problem/254/A
+author: anan afrida
+date created: 07/29/2020
+*/
+
+
 #include<bits/stdc++.h>
 #define ll long long
 #define ld long double
